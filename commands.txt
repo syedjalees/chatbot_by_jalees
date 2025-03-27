@@ -1,0 +1,12 @@
+uv init chatbot-authentication
+cd chatbot-authentication
+uv add chainlit google-generativeai python-dotenv
+# Google AI Studio ==> for API
+
+Github_Auth ==>
+1.  https://github.com/settings/applications/new
+2.  Go to GitHub -> Settings -> Developer Settings -> OAuth Apps -> New OAuth App
+
+chainlit create-secret
+
+

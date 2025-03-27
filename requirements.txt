@@ -1,0 +1,3 @@
+ chainlit==2.4.201
+ google-generativeai==0.8.4
+ python-dotenv==1.0.1
